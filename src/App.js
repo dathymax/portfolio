@@ -7,8 +7,10 @@ import Header from "./components/header/Header";
 import Portfolio from "./components/content/portfolio/Portfolio";
 import Services from "./components/content/services/Services";
 import Testimonials from "./components/content/testimonials/Testimonials";
-
-// import components
+import Contact from "./components/content/contact/Contact";
+import Footer from "./components/footer/Footer";
+import Backtop from "./components/backtop/Backtop";
+import BackTopProgress from "./components/backtop/BacktopProgress";
 
 const App = () => {
 	return (
@@ -21,7 +23,10 @@ const App = () => {
 			<Portfolio />
 			<Services />
 			<Testimonials />
-			<div style={{ height: "2000px" }}></div>
+			<Contact />
+			<Footer />
+			<Backtop />
+			{/* <BackTopProgress /> */}
 		</div>
 	);
 };
