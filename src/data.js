@@ -22,6 +22,8 @@ import DribbbleBrandIcon from "./assets/img/brands/dribbble.png";
 // projects images
 import TravelProject from "./images/travel.PNG";
 import ManageEmployees from "./images/manage-employees.PNG";
+import AntdDashboard from "./images/antd-dashboard.PNG";
+import MUIDashboard from "./images/mui-dashboard.PNG";
 import MyCVProject from "./images/mycv-app.PNG";
 import TheBandProject from "./images/theband-app.PNG";
 import PortfolioProject from "./images/portfolio-html.PNG";
@@ -178,6 +180,18 @@ export const projectsData = [
 		id: "10",
 		image: ManageEmployees,
 		name: "Manage employees",
+		category: "ReactJs",
+	},
+	{
+		id: "11",
+		image: AntdDashboard,
+		name: "Ant design",
+		category: "ReactJs",
+	},
+	{
+		id: "12",
+		image: MUIDashboard,
+		name: "MUI",
 		category: "ReactJs",
 	},
 ];
