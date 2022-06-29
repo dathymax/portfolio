@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from "react";
-import Logo from "../../assets/img/logo.svg";
 import Nav from "./Nav";
 import NavMobile from "./NavMobile";
 import Social from "./Social";
@@ -21,7 +20,6 @@ const Header = () => {
 		>
 			<div className="container mx-auto h-full flex items-center justify-between">
 				<a href=" #" className="text-3xl">
-					{/* <img src={Logo} alt="Logo" /> */}
 					Jtadd Do
 				</a>
 				<div className="hidden lg:block">

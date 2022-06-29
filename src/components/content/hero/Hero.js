@@ -1,5 +1,4 @@
 import React from "react";
-import WomanImg from "../../../assets/img/banner-woman2.webp";
 
 const Hero = () => {
 	return (

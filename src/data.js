@@ -10,6 +10,8 @@ import {
 	FiTag,
 	FiMail,
 	FiMapPin,
+	FiFacebook,
+	FiLinkedin,
 } from "react-icons/fi";
 
 // companies icons
@@ -23,7 +25,7 @@ import DribbbleBrandIcon from "./assets/img/brands/dribbble.png";
 import TravelProject from "./images/travel.PNG";
 import ManageEmployees from "./images/manage-employees.PNG";
 import AntdDashboard from "./images/antd-dashboard.PNG";
-import MUIDashboard from "./images/mui-dashboard.PNG";
+import MiniBlogs from "./images/miniblogs.PNG";
 import MyCVProject from "./images/mycv-app.PNG";
 import TheBandProject from "./images/theband-app.PNG";
 import PortfolioProject from "./images/portfolio-html.PNG";
@@ -79,20 +81,20 @@ export const navigation = [
 // social
 export const social = [
 	{
-		icon: <FiYoutube />,
-		href: "",
+		icon: <FiFacebook />,
+		href: "https://www.facebook.com/dotuandat25092000",
 	},
 	{
 		icon: <FiInstagram />,
-		href: "",
+		href: "https://www.instagram.com/_jta.dd_/",
+	},
+	{
+		icon: <FiLinkedin />,
+		href: "https://www.linkedin.com/in/tu%E1%BA%A5n-%C4%91%E1%BA%A1t-%C4%91%E1%BB%97-514baa20b/",
 	},
 	{
 		icon: <FiGithub />,
-		href: "",
-	},
-	{
-		icon: <FiDribbble />,
-		href: "",
+		href: "https://github.com/dathymax",
 	},
 ];
 
@@ -127,72 +129,84 @@ export const projectsData = [
 		image: TravelProject,
 		name: "Travel",
 		category: "ReactJs",
+		href: "https://dathymax.github.io/travel-frontend/",
 	},
 	{
 		id: "2",
 		image: MyCVProject,
 		name: "My CV app",
 		category: "ReactJs",
+		href: "https://dathymax.github.io/mycv-app/",
 	},
 	{
 		id: "3",
 		image: TheBandProject,
 		name: "The band",
 		category: "ReactJs",
+		href: "https://dathymax.github.io/theband-app/",
 	},
 	{
 		id: "4",
 		image: PortfolioProject,
 		name: "Portfolio HTML/CSS/JS",
 		category: "HTML/CSS/JS",
+		href: "https://dathymax.github.io/",
 	},
 	{
 		id: "5",
 		image: LoveTravel,
 		name: "Love travel",
 		category: "HTML/CSS/JS",
+		href: "https://dathymax.github.io/Love%20Travel/index.html",
 	},
 	{
 		id: "6",
 		image: LoveTravelSearch1,
 		name: "Love travel search 1",
 		category: "HTML/CSS/JS",
+		href: "https://dathymax.github.io/Love%20Travel/child-web/search-2/index.html",
 	},
 	{
 		id: "7",
 		image: LoveTravelSearch2,
 		name: "Love travel search 2",
 		category: "HTML/CSS/JS",
+		href: "https://dathymax.github.io/Love%20Travel/child-web/search-1/index.html",
 	},
 	{
 		id: "8",
 		image: LoveTravelSport,
 		name: "Love travel sport",
 		category: "HTML/CSS/JS",
+		href: "https://dathymax.github.io/Love%20Travel/child-web/sport/index.html#",
 	},
 	{
 		id: "9",
 		image: AirBnb,
 		name: "AirBnb",
 		category: "HTML/CSS/JS",
+		href: "https://dathymax.github.io/Resort/index.html",
 	},
 	{
 		id: "10",
 		image: ManageEmployees,
 		name: "Manage employees",
 		category: "ReactJs",
+		href: "https://dathymax.github.io/manage-employees/",
 	},
 	{
 		id: "11",
 		image: AntdDashboard,
 		name: "Ant design",
 		category: "ReactJs",
+		href: "https://dathymax.github.io/antd-dashboard/",
 	},
 	{
 		id: "12",
-		image: MUIDashboard,
-		name: "MUI",
+		image: MiniBlogs,
+		name: "Mini blogs",
 		category: "ReactJs",
+		href: "https://dathymax.github.io/miniblogs/",
 	},
 ];
 

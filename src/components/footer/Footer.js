@@ -21,9 +21,7 @@ const Footer = () => {
 							);
 						})}
 					</div>
-					<div>
-						<img src={Logo} alt="Logo" />
-					</div>
+					<div className="text-3xl">Jtadd Do</div>
 					<p>&copyright: 2022 Jtadd Do. All rights reserved.</p>
 				</div>
 			</div>
