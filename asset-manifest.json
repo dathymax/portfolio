@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.775a6837.css",
-    "main.js": "/portfolio/static/js/main.41609688.js",
+    "main.css": "/portfolio/static/css/main.09863ea6.css",
+    "main.js": "/portfolio/static/js/main.bc83b25c.js",
     "static/media/love-travel-search1.PNG": "/portfolio/static/media/love-travel-search1.f68d626b63605714cdd5.PNG",
     "static/media/travel.PNG": "/portfolio/static/media/travel.b7fd3b5d93de010fef87.PNG",
     "static/media/love-travel.PNG": "/portfolio/static/media/love-travel.b81568fcc0a0384625b2.PNG",
@@ -9,28 +9,27 @@
     "static/media/love-travel-search2.PNG": "/portfolio/static/media/love-travel-search2.c507d401c892ff2c1732.PNG",
     "static/media/love-travel-sport.PNG": "/portfolio/static/media/love-travel-sport.290f7f05ad99cb413e3a.PNG",
     "static/media/portfolio-html.PNG": "/portfolio/static/media/portfolio-html.55d6ca0b1053775d0b23.PNG",
+    "static/media/miniblogs.PNG": "/portfolio/static/media/miniblogs.caa315251c7739a0f5dc.PNG",
     "static/media/theband-app.PNG": "/portfolio/static/media/theband-app.d7ebbd8b5f718e74ed40.PNG",
-    "static/media/about.webp": "/portfolio/static/media/about.2c2bda9a46420b56d2b5.webp",
-    "static/media/banner-woman2.webp": "/portfolio/static/media/banner-woman2.484a3b40fee634e4b12f.webp",
     "static/media/mycv-app.PNG": "/portfolio/static/media/mycv-app.2010ea218699d83355a4.PNG",
     "static/media/testimonial-2.webp": "/portfolio/static/media/testimonial-2.4c1e7c2fe42e548d2e0f.webp",
     "static/media/manage-employees.PNG": "/portfolio/static/media/manage-employees.db865c93475f5060d1fe.PNG",
     "static/media/antd-dashboard.PNG": "/portfolio/static/media/antd-dashboard.e7743d6cf4937ccc15d2.PNG",
-    "static/media/mui-dashboard.PNG": "/portfolio/static/media/mui-dashboard.819a5a996f36cad0b117.PNG",
+    "static/media/p1.webp": "/portfolio/static/media/p1.52f0f3a89c11044c2037.webp",
     "static/media/testimonial-3.webp": "/portfolio/static/media/testimonial-3.677360499dd5a97f022a.webp",
-    "static/media/logo.svg": "/portfolio/static/media/logo.b521a898489cfa7dc3863d7e83be3cc1.svg",
-    "static/media/services.svg": "/portfolio/static/media/services.2d6c88f25842315ca095.svg",
-    "static/media/portfolio.svg": "/portfolio/static/media/portfolio.2f31f4be113e35cc3442.svg",
-    "static/media/testimonials.svg": "/portfolio/static/media/testimonials.07294ae9606e6d7ea071.svg",
-    "static/media/contact.svg": "/portfolio/static/media/contact.ec60abf53c38c2593f7e.svg",
+    "static/media/logo.svg": "/portfolio/static/media/logo.b40a46869d8e3421cad9bf9a0b71804b.svg",
+    "static/media/services.svg": "/portfolio/static/media/services.0d43785bd1f41e4d0371.svg",
+    "static/media/portfolio.svg": "/portfolio/static/media/portfolio.bff8b39169bade93c32b.svg",
+    "static/media/testimonials.svg": "/portfolio/static/media/testimonials.7b59b974ba9e396f2d8e.svg",
+    "static/media/contact.svg": "/portfolio/static/media/contact.acdd342ba1db0f98c7cd.svg",
     "static/media/testimonial-1.webp": "/portfolio/static/media/testimonial-1.8e05fd5dbc71387931b5.webp",
-    "static/media/about.svg": "/portfolio/static/media/about.70a8290c961c47c208b5.svg",
+    "static/media/about.svg": "/portfolio/static/media/about.192e39ff229e6eb06083.svg",
     "index.html": "/portfolio/index.html",
-    "main.775a6837.css.map": "/portfolio/static/css/main.775a6837.css.map",
-    "main.41609688.js.map": "/portfolio/static/js/main.41609688.js.map"
+    "main.09863ea6.css.map": "/portfolio/static/css/main.09863ea6.css.map",
+    "main.bc83b25c.js.map": "/portfolio/static/js/main.bc83b25c.js.map"
   },
   "entrypoints": [
-    "static/css/main.775a6837.css",
-    "static/js/main.41609688.js"
+    "static/css/main.09863ea6.css",
+    "static/js/main.bc83b25c.js"
   ]
 }
